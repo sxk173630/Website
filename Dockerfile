@@ -1,2 +1,2 @@
-FROM sxk173630/website_application
+FROM hshar/webapp
 ADD . /var/www/html
